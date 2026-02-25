@@ -1,9 +1,9 @@
 # Webpack-Template
 ## Setup
-
-npm install
-npm start
+---
+- npm install
+- npm start
 
 ## Deploy
-
-npm run deploy
+---
+- npm run deploy
